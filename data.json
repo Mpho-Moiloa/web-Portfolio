@@ -1,12 +1,11 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Mpho Moiloa",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Mpho",
         "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
+            "Web developer 🌐",
+            "Mobile developer 📱💻",
+            "Web Designer 🎨",
             "Just getting started 📈"
         ],
         "professionalDetails": [
@@ -28,7 +27,7 @@
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mmmphomoiloa@gmail.com"
             }
         ]
     },
