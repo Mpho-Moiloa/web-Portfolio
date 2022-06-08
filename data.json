@@ -34,60 +34,34 @@
     "skills": {
         "Languages known": [
             "JavaScript",
-            "Java",
-            "C++",
-            "Python",
             "HTML5",
             "CSS3",
             "TypeScript",
-            "Kotlin",
-            "Dart"
+            "Kotlin"
         ],
         "Frontend": [
             "React",
-            "Redux",
             "Next.js",
-            "Gatsby",
-            "Netlify",
             "Vercel",
             "Material-UI",
-            "antdesign",
             "Bootstrap"
         ],
         "Backend, Database and Cloud": [
             "Node.js",
             "Express",
-            "FastAPI",
             "MongoDB",
-            "MySQL",
-            "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
-            "Heroku",
-            "Firebase"
+            "MySQL"
         ],
         "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
+            "Android"
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/Mpho-Moiloa/",
         "repositories": [
-            "Genrealize",
-            "Portfolio",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "1DBM"
+            "CreamyCoffe",
+            "TheAfternoonPub",
+            "Android-Trivia-App"
         ]
     },
     "experience": {
@@ -145,14 +119,9 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
-        "picture": "/profile.jpg",
+        "description": "I am a web and mobile developer, having build my experience in Html, CSS, JavaScript, and Android Development",
+        "picture": "/IMG_0755_2.JPG",
         "social": [
-            {
-                "alt": "kaustubh._.o",
-                "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
-            },
             {
                 "alt": "KO_272",
                 "icon": "twitter",

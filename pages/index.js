@@ -24,7 +24,7 @@ export async function getStaticProps() {
   const repos = projects.repositories
   const reqInit = {
     headers: { 
-      'Authorization': `token ${process.env.PAT}`
+      // 'Authorization': `token ${process.env.PAT}`
     }
   }
   const fullRepoData = await Promise.allSettled(
@@ -77,7 +77,7 @@ export default function Index({ projects, setTheme }) {
         <Landing />
         <Skills />
         <Projects data={projects}/>
-        <Experience/>
+        {/* <Experience/> */}
         <About/>
       </Container>
     </div>
