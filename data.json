@@ -58,8 +58,9 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/Mpho-Moiloa/",
         "repositories": [
-            "CreamyCoffe",
-            "TheAfternoonPub",
+            "Kaapschon-website",
+            "optifect",
+            "brm-security",
             "Android-Trivia-App"
         ]
     },
